@@ -741,17 +741,17 @@ https://github.com/hello8693DSZ/dsz-exam-showboard)
 	<tbody>
 		<tr>
             <td align="center">
-                <a href="https://github.com/Jursin">
-                    <img src="https://avatars.githubusercontent.com/u/127487914?v=4" width="100;" alt="Jursin"/>
-                    <br />
-                    <sub><b>Jursin</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/MKStoler4096">
                     <img src="https://avatars.githubusercontent.com/u/178344462?v=4" width="100;" alt="MKStoler4096"/>
                     <br />
                     <sub><b>MKStoler</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/Jursin">
+                    <img src="https://avatars.githubusercontent.com/u/127487914?v=4" width="100;" alt="Jursin"/>
+                    <br />
+                    <sub><b>Jursin</b></sub>
                 </a>
             </td>
             <td align="center">
